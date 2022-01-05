@@ -1,0 +1,22 @@
+{
+  "name": "star-template",
+  "version": "0.0.0",
+  "description": "模板代码库",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "workspaces": [
+    "template/*"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sialvsic/star-template.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sialvsic/star-template/issues"
+  },
+  "homepage": "https://github.com/sialvsic/star-template#readme"
+}
