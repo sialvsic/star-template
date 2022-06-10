@@ -2,3 +2,4 @@ lib/
 dist/
 es/
 node_modules/
+.DS_Store
