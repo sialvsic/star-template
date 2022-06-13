@@ -11,3 +11,7 @@ yarn workspace koa add @types/koa @types/koa-bodyparser @types/koa__cors @types/
 ```
 yarn workspace parcel add parcel
 ```
+
+```
+yarn workspace parcel-esmodule add parcel
+```
