@@ -15,3 +15,7 @@ yarn workspace parcel add parcel
 ```
 yarn workspace parcel-esmodule add parcel
 ```
+
+```
+yarn workspace parcel-ts add parcel
+```
