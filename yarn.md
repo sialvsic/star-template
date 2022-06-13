@@ -19,3 +19,9 @@ yarn workspace parcel-esmodule add parcel
 ```
 yarn workspace parcel-ts add parcel
 ```
+
+```
+yarn workspace parcel-react add parcel react react-dom
+yarn workspace parcel-react add parcel @types/react @types/react-dom -D
+yarn workspace parcel-react remove react-do
+```
